@@ -33,7 +33,7 @@ class Stream:
             else:
                 break
 
-    def _follow(self, measurement: Measurement, percent: float = 0.) -> None:
+    def _follow(self, measurement: Measurement, percent: float = 1.) -> None:
         """
         Проверяем изменение текущего измерения по сравнению с экстремумами,
         если изменение больше чем percent процентов, выводит сообщение
