@@ -21,5 +21,9 @@ python stream.py
 
 Рассмотрим картинку:
 ![Иллюстрация 1](https://github.com/LeonKilgoreTrout/pure-ethusdt/blob/main/images/currency_derivatives.png)
+
 Ось x => номер замера
+
 Ось y => производные ф-й изменения фьючерсов  
+
+
