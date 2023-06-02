@@ -35,6 +35,6 @@ python stream.py
 
 Также если предположить, что ETHUSDT априори зависим от BTCUSDT
 
-![Иллюстрация 2](https://github.com/LeonKilgoreTrout/pure-ethusdt/blob/main/images/currency_derivatives.png)
+![Иллюстрация 2](https://github.com/LeonKilgoreTrout/pure-ethusdt/blob/main/images/same_with_diffs.png)
 
 
